@@ -18,14 +18,7 @@ Here, \( u \) and \( v \) are parameters, and the surface is defined for \( u \i
 ### Wavy Enneper Surface
 The **Wavy Enneper Surface** introduces additional parameters and modifications to the classical Enneper Surface to create a more complex and visually interesting surface. The parametric equations for the Wavy Enneper Surface are:
 
-\[
-\begin{cases}
-x = u \cos(v) - \frac{u^{2s-1} \cos((2s-1)v)}{2s-1} \\
-y = -u \sin(v) - \frac{u^{2s-1} \sin((2s-1)v)}{2s-1} \\
-z = \frac{2u^2 \cos(w)}{s}
-\end{cases}
-\]
-
+![Image](https://github.com/user-attachments/assets/aabb6751-22d4-4689-8a33-6559f0c826bf)
 Here:
 - \( u \) and \( v \) are parameters similar to the classical Enneper Surface.
 - \( s \) is a parameter that controls the complexity of the surface.
