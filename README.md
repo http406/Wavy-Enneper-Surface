@@ -5,13 +5,8 @@ The **Wavy Enneper Surface** is a variation of the classical **Enneper Surface**
 ### Classical Enneper Surface
 The classical Enneper Surface is defined by the following parametric equations:
 
-\[
-\begin{cases}
-x = u \cos(v) - \frac{u^3}{3} \cos(3v) \\
-y = -u \sin(v) - \frac{u^3}{3} \sin(3v) \\
-z = u^2 \cos(2v)
-\end{cases}
-\]
+![Image](https://github.com/user-attachments/assets/2456e7d5-2efc-42cd-b994-7e67ce519269)
+
 
 Here, \( u \) and \( v \) are parameters, and the surface is defined for \( u \in \mathbb{R} \) and \( v \in [0, 2\pi) \). The Enneper Surface is known for its self-intersecting, saddle-like shape.
 
@@ -19,6 +14,7 @@ Here, \( u \) and \( v \) are parameters, and the surface is defined for \( u \i
 The **Wavy Enneper Surface** introduces additional parameters and modifications to the classical Enneper Surface to create a more complex and visually interesting surface. The parametric equations for the Wavy Enneper Surface are:
 
 ![Image](https://github.com/user-attachments/assets/aabb6751-22d4-4689-8a33-6559f0c826bf)
+
 
 Here:
 - \( u \) and \( v \) are parameters similar to the classical Enneper Surface.
