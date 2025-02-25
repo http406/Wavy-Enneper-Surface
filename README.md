@@ -33,3 +33,5 @@ Here:
 
 Output: 
 
+![Image](https://github.com/user-attachments/assets/3611b8e8-8eef-43e0-b3a4-fef189f62911)
+
