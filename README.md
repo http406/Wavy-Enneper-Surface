@@ -31,4 +31,5 @@ Here:
 - **Computer Graphics**: It is used in 3D modeling and animation to create visually interesting surfaces.
 - **Art and Design**: The surface's intricate patterns make it a popular choice for mathematical art and design.
 
-In summary, the Wavy Enneper Surface is a fascinating extension of the classical Enneper Surface, characterized by its wave-like deformations and increased geometric complexity. It is widely used in both mathematical research and creative applications.
+Output: 
+
